@@ -3,6 +3,7 @@
 While working as a Fiber Designer for Charter Communications, I noticed the standard workflow was often repetetive. I created DesignShark as a means to assist myself in these workflows, and give myself a central dashboard to store information. Once I added the Naming Tool, it became apparent that my entire team could benefit from my work. After receiving approval from my supervisor, manager, and director, DesignShark was distributed to all teams within my department. DesignShark evolved with feedback from my peers; I continued to add features, including macros to automatically fill out several deliverables using raw exports from Magellan (Charter's design software).
 
 **Disclaimer:** DesignShark is available in this repository, but the sample data used in the screenshots and videos below is not publicly available. I can provide a full demonstration of DesignShark's features on request.
+
 **Note:** The macros ran much slower while recording software was active; in reality most of DesignShark's macros are near-instantaneous.
 
 # Features
@@ -30,7 +31,7 @@ Time to complete a MOP with MOP tool: ~20 minutes
 
 Time saved by using HAF tool (including CBG solver): ~1.5 hours
 
-**BOMs** Similar to the MOP and HAF tools, the DesignShark is capable of re-formatting and processing raw exports into nearly-complete deliverables, saving 30+ minutes for each deliverable.
+**BOMs:** Similar to the MOP and HAF tools, the DesignShark is capable of re-formatting and processing raw exports into nearly-complete deliverables, saving 30+ minutes for each deliverable.
 
 **Email:** DesignShark can generate a standard "footage and passings MQMS update" email based on the info in the Data Entry tab, and open it as a draft in Outlook.
 
