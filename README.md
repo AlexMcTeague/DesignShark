@@ -27,11 +27,11 @@ Time to complete a MOP with MOP tool: ~20 minutes
 
 **HAF:** HAF exports from Magellan require lots of data cleaning; this is normally an intensive manual process, but the HAF tab of DesignShark does most of this work for you. The most time-saving feature of this tab is the CBG solver: Normally to check which CBG boundary a given address belongs to, you need to manually check the KMZ file. DesignShark instead checks the coordinates of each address in the HAF against a KMZ containing the CBG boundaries. It lists the results, and even automatically exports the results into the HAF.
 
-![Click to view HAF CBG-solver demo video](https://i.imgur.com/L9RwpVW.mp4)
+![Click to view HAF CBG-solver video demonstration](https://i.imgur.com/L9RwpVW.mp4)
 
 Time saved by using HAF tool (including CBG solver): ~1.5 hours
 
-**BOMs:** Similar to the MOP and HAF tools, the DesignShark is capable of re-formatting and processing raw exports into nearly-complete deliverables, saving 30+ minutes for each deliverable.
+**BOMs:** Similar to the MOP and HAF tools, the DesignShark is capable of re-formatting and processing raw exports into nearly-complete deliverables (in this case the BOMs and Overall BOM), saving 30+ minutes for each deliverable.
 
 **Email:** DesignShark can generate a standard "footage and passings MQMS update" email based on the info in the Data Entry tab, and open it as a draft in Outlook.
 
