@@ -1,6 +1,8 @@
 # DesignShark
 
-While working as a Fiber Designer for Charter Communications, I noticed the standard workflow was often repetetive. I created DesignShark as a means to assist myself in these workflows, and give myself a central dashboard to store information. Once I added the Naming Tool, it became apparent that my entire team could benefit from my work. After receiving approval from my supervisor, manager, and director, DesignShark was distributed to all teams within my department. DesignShark evolved with feedback from my peers; I continued to add features, including macros to automatically fill out several deliverables using raw exports from Magellan (Charter's design software).
+DesignShark is an Excel workbook that makes heavy use of VBA macros.
+
+While working as a Fiber Designer for Charter Communications, I noticed the standard workflow was often repetetive. I created DesignShark as a way to assist myself in these workflows, and give myself a central dashboard to store information. Once I added the Naming Tool, it became apparent that my entire team could benefit from my work. After receiving approval from my supervisor, manager, and director, DesignShark was distributed to all teams within my department. DesignShark evolved with feedback from my peers; I continued to add features, including macros to automatically fill out several deliverables using raw exports from Magellan (Charter's design software).
 
 **Disclaimer:** DesignShark is available in this repository, but the sample data used in the screenshots and videos below is not publicly available. I can provide a full demonstration of DesignShark's features on request.
 
